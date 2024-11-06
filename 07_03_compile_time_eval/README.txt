@@ -1,0 +1,1 @@
+This example demonstrates how templates can be used to perform compile-time computations.

@@ -1,0 +1,1 @@
+This example demonstrates the usability of asserts in templates

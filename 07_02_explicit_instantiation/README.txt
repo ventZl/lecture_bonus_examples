@@ -1,0 +1,1 @@
+This example demonstrates how to explicitly instantiate template in one module and use this template in another module using template forward declaration.
